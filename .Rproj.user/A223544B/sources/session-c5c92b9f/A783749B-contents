@@ -3,6 +3,6 @@ library(here)
 
 print("Hello, Universe!")
 
-hello_world <- data.frame(Message = "Hello, Universe!")
+hello_universe <- data.frame(Message = "Hello, Universe!")
 
-write_csv(hello_world, here("Hello_Universe!.csv"))
+write_csv(hello_universe, here("Hello_Universe!.csv"))
