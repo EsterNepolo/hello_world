@@ -3,7 +3,7 @@
     "path": "~/GitHub/hello_world/hello_world.R",
     "project_path": "hello_world.R",
     "type": "r_source",
-    "hash": "833062081",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1713309522634.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "5,0",
+        "cursorPosition": "7,47",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1713309633,
+    "lastKnownWriteTime": 1713310150,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1713309633518,
+    "last_content_update": 1713310150800,
     "read_only": false,
     "read_only_alternatives": []
 }
